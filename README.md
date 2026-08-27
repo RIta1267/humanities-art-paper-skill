@@ -31,4 +31,4 @@ Use $humanities-art-paper to turn my topic on county-level folk song transmissio
 
 ## Design Notes
 
-This skill borrows mature skill patterns such as staged intake, research-spine diagnosis, task routing, terminology ledgers, evidence mapping, section blueprints, figure QA, and final integrity checks. It adapts those patterns for interpretive humanities and arts scholarship rather than STEM-style paper structures.
+This skill borrows mature skill patterns such as staged intake, research-spine diagnosis, task routing, terminology ledgers, evidence mapping, section blueprints, top-down critique, voice preservation, reviewer-style adversarial checks, figure QA, and final integrity checks. It adapts those patterns for interpretive humanities and arts scholarship rather than STEM-style paper structures.

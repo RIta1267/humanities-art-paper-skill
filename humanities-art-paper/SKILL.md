@@ -13,6 +13,7 @@ Use this skill to turn humanities, social-science, and arts research material in
 
 - Treat the paper as an argument, not a topic introduction.
 - Preserve the user's disciplinary voice unless the user asks for heavy rewriting.
+- Work top-down: fix the research question, claim, evidence, and section logic before polishing sentences.
 - Separate what the material shows, what the author infers, and what existing scholarship claims.
 - Avoid inflated theory, vague value claims, policy slogans, and unsupported "important significance" language.
 - Do not invent citations, fieldwork details, archival sources, dates, places, page numbers, images, scores, interviews, or statistics.
@@ -38,8 +39,9 @@ Use a gated workflow for substantial paper tasks. Do not draft past a failed gat
 4. Evidence gate: map each major claim to available or missing evidence.
 5. Structure gate: create section blueprints before writing full prose.
 6. Draft gate: draft or revise one section at a time, keeping each paragraph to one job.
-7. Integrity gate: check for fabricated sources, unsupported claims, concept drift, overbroad contribution, and mismatch between evidence and claim.
-8. Delivery gate: return the requested artifact plus a short "ready / needs author check / blocked" status.
+7. Review gate: run layered critique or reviewer-style adversarial checks when the user asks for review, defense preparation, or submission readiness.
+8. Integrity gate: check for fabricated sources, unsupported claims, concept drift, overbroad contribution, and mismatch between evidence and claim.
+9. Delivery gate: return the requested artifact plus a short "ready / needs author check / blocked" status.
 
 For the detailed humanistic version of these gates, read `references/workflow-gates.md`.
 
@@ -70,6 +72,9 @@ When generating or revising paper content:
 - Paper outline: title, abstract skeleton, chapter structure, section claims, evidence placement.
 - Literature review map: schools, debates, methods, missing questions, position of this paper.
 - Draft revision: argument-level notes first, then paragraph-level rewrites.
+- Four-layer critique: foundation, structure, paragraph function, sentence style.
+- Reviewer simulation: likely reviewer objections, evidence vulnerabilities, concept attacks, and revision priorities.
+- Revision dossier: response-to-reviewer plan, change log, unresolved author checks.
 - Figure/table plan: figure type, required data/materials, caption logic, source notes.
 - Submission polish: title, abstract, keywords, introduction, conclusion, and response-to-reviewer text.
 

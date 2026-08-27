@@ -1,6 +1,6 @@
 # Workflow Gates
 
-Use this reference for staged, end-to-end humanities/social-science/arts paper work. It adapts mature skill patterns into a humanistic writing workflow: route by task, confirm the paper's spine, create a terminology ledger, require evidence mapping, draft after planning, and finish with an integrity status.
+Use this reference for staged, end-to-end humanities/social-science/arts paper work. It adapts mature skill patterns into a humanistic writing workflow: route by task, confirm the paper's spine, create a terminology ledger, require evidence mapping, draft after planning, review top-down, and finish with an integrity status.
 
 ## Gate 1: Intake
 
@@ -101,6 +101,27 @@ For revising:
 
 ## Gate 7: Integrity Audit
 
+Before the integrity audit, use layered review when the user asks for critique, defense preparation, external-review response, or submission readiness.
+
+Four-layer critique:
+
+1. Foundation: research question, object, claim, contribution, and evidence fit.
+2. Structure: section order, section claims, transitions, repetition, and missing steps.
+3. Paragraph function: each paragraph's job, claim, evidence, and relation to the section.
+4. Sentence style: clarity, rhythm, terminology, register, and unnecessary abstraction.
+
+Reviewer simulation:
+
+- Concept attack: which key terms are vague, overloaded, or imported without necessity?
+- Evidence attack: which claims outrun the material?
+- Literature attack: which adjacent scholarship could challenge the claimed gap?
+- Method attack: where are method and material only named rather than used?
+- Scope attack: where do title, abstract, or conclusion promise too much?
+
+For review outputs, lead with the highest-risk issues, then provide revision moves. Do not start with copyediting.
+
+## Gate 8: Integrity Audit
+
 Before final delivery, check:
 
 - Fabrication: citations, fieldwork facts, archives, dates, statistics, page numbers, interviews, images, scores.
@@ -110,10 +131,11 @@ Before final delivery, check:
 - Literature gap inflation: "no research exists" without proof.
 - Theory decoration: concepts named but not used analytically.
 - Translation flattening: English terms lose local disciplinary meaning.
+- Voice loss: revision has erased the author's conceptual emphasis or disciplinary texture.
 
 Mark unresolved issues clearly.
 
-## Gate 8: Delivery Status
+## Gate 9: Delivery Status
 
 End substantial outputs with one of:
 
