@@ -84,6 +84,42 @@ Paragraph jobs may include:
 
 Each paragraph should have one main job. Split paragraphs that carry two unrelated jobs.
 
+Run a section-parity check before drafting:
+
+- Put every first-level heading into one role: introduction, literature review, materials/method, analysis, discussion, conclusion, appendix, or author note.
+- Same-level analysis sections must answer the same kind of question. Examples: three functions, three periods, three regions, three material types, or three mechanisms.
+- Do not flatten different roles into one sequence. A scope/boundary section such as "From Jiangsu to the Yangtze River Delta" is usually a discussion section, not a peer of the core analysis sections.
+- If sections mix levels, restructure before drafting.
+
+Bad pattern:
+
+1. Introduction.
+2. Materials and method.
+3. Ecological background.
+4. Emotional metaphor.
+5. Counting games.
+6. From one province to a region.
+7. Conclusion.
+
+Better pattern:
+
+1. Introduction.
+2. Materials and method.
+3. Imagery spectrum and ecological basis.
+4. Expression mechanisms: labor, emotion, play.
+5. Discussion: from one province to a regional comparison.
+6. Conclusion.
+
+Alternative parallel analysis pattern:
+
+1. Introduction.
+2. Materials and method.
+3. Ecological anchoring of biological imagery.
+4. Affective mediation of biological imagery.
+5. Performative and game functions of biological imagery.
+6. Discussion: scope, limits, and regional extension.
+7. Conclusion.
+
 ## Gate 6: Draft Or Revise
 
 For drafting:
@@ -99,7 +135,7 @@ For revising:
 3. Preserve the user's strongest concepts and disciplinary voice.
 4. Do not erase useful historical, material, or interpretive nuance for generic smoothness.
 
-## Gate 7: Integrity Audit
+## Gate 7: Review Gate
 
 Before the integrity audit, use layered review when the user asks for critique, defense preparation, external-review response, or submission readiness.
 

@@ -42,6 +42,16 @@ Journal article:
 4. Discussion: theoretical implication, mechanism, comparison, or limits.
 5. Conclusion: answer the question and state contribution without exaggeration.
 
+For humanities journal articles, keep section roles distinct:
+
+- Introduction states the problem and claim.
+- Materials/method explains the source base and reading procedure.
+- Core analysis sections must be parallel in logic.
+- Discussion handles scale, comparison, theory, limits, or extension.
+- Conclusion answers the question without adding new evidence.
+
+If a section mainly explains "what this case can or cannot represent," classify it as discussion. Do not place it beside sections that analyze evidence.
+
 Thesis/dissertation chapter:
 
 1. Chapter question.
@@ -88,6 +98,24 @@ Better:
 2. Material reorganization: how repertoire, image, space, or teaching content changed.
 3. Institutional mediation: how schools, troupes, museums, platforms, or local government reshaped practice.
 4. Interpretive consequence: what this case changes in our understanding of inheritance, art form, or cultural memory.
+
+## Section Parity Rules
+
+Before accepting an outline, test first-level headings with these questions:
+
+1. Are sections at the same heading level doing the same kind of work?
+2. Can each analysis section be expressed as "This section shows that..."?
+3. Is any section actually a method note, background note, scope limit, or conclusion disguised as analysis?
+4. Would moving a section under "Discussion" make the structure clearer?
+
+For a biological-imagery paper, these are coherent first-level analysis patterns:
+
+- By function: ecological anchoring, affective mediation, performance/game function.
+- By material domain: water creatures, crops and plants, birds/animals, insects.
+- By genre: labor songs, mountain songs, xiaodiao, ritual/custom songs.
+- By region: Jiangsu, Zhejiang, Shanghai, Anhui, followed by comparison.
+
+Do not mix these patterns in one same-level sequence unless the section titles explicitly show why.
 
 ## Failure Modes
 

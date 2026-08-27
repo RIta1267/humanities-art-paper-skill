@@ -25,7 +25,8 @@ Use this skill to turn humanities, social-science, and arts research material in
 2. Identify the genre: course paper, thesis/dissertation chapter, journal article, CSSCI-style manuscript, opening report, project proposal, conference paper, or presentation.
 3. Identify the field and materials: musicology, art theory, art education, folklore, ICH, cultural studies, theatre/opera, dance, visual art, media, museum studies, or another stated field.
 4. Diagnose the research spine: research object, core question, key concepts, material basis, method, argument, contribution, and limits.
-5. Produce the requested output with explicit assumptions and evidence gaps.
+5. Check section hierarchy before drafting: introduction, materials/method, analysis sections, discussion, and conclusion must not be flattened into one undifferentiated list.
+6. Produce the requested output with explicit assumptions and evidence gaps.
 
 If the user provides only a broad topic, first return a compact diagnosis with 2-4 possible research questions and the evidence each would require. If the user provides draft text, revise or critique the text directly before proposing a new structure.
 
@@ -37,7 +38,7 @@ Use a gated workflow for substantial paper tasks. Do not draft past a failed gat
 2. Question gate: produce one sentence in this form: "This paper explains [object/change/tension] through [materials/method], arguing that [claim] within [scope/boundary]." If this sentence cannot be written, narrow the topic before drafting.
 3. Terms gate: create a short terminology ledger for recurring concepts, place names, repertoire names, institutions, translations, and abbreviations.
 4. Evidence gate: map each major claim to available or missing evidence.
-5. Structure gate: create section blueprints before writing full prose.
+5. Structure gate: create section blueprints and verify that same-level sections are truly parallel before writing full prose.
 6. Draft gate: draft or revise one section at a time, keeping each paragraph to one job.
 7. Review gate: run layered critique or reviewer-style adversarial checks when the user asks for review, defense preparation, or submission readiness.
 8. Integrity gate: check for fabricated sources, unsupported claims, concept drift, overbroad contribution, and mismatch between evidence and claim.
@@ -61,6 +62,7 @@ When generating or revising paper content:
 - Make the central claim visible.
 - Connect every major claim to a material type or scholarly debate.
 - Prefer concrete chapter titles over decorative or slogan-like titles.
+- Keep first-level headings at consistent argumentative rank: do not place a materials/method section, three analytical dimensions, a scope discussion, and the conclusion as if all were equivalent analytical sections.
 - Keep theory as an analytical tool, not a name-dropping layer.
 - Assign each paragraph one primary job: context, problem, literature position, method/material, analysis, comparison, implication, or limitation.
 - For Chinese outputs, use clear academic Chinese with controlled abstraction.
