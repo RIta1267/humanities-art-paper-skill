@@ -120,7 +120,37 @@ Alternative parallel analysis pattern:
 6. Discussion: scope, limits, and regional extension.
 7. Conclusion.
 
-## Gate 6: Draft Or Revise
+## Gate 6: Visual Evidence Plan
+
+Before drafting a substantial paper, decide whether the paper needs tables, figures, captions, or legends.
+
+Use visuals when they do at least one of these jobs:
+
+- Make the material scope transparent.
+- Show coding or classification criteria.
+- Compress comparison across regions, periods, genres, actors, works, or image categories.
+- Clarify a mechanism, sequence, genealogy, spatial relation, or analytical hierarchy.
+- Let the reader verify how examples support a section claim.
+
+Do not add a visual when it only repeats prose, decorates the article, or creates false quantification from weak material.
+
+Required visual plan:
+
+| Figure/table | Section placement | Claim supported | Material basis | Caption/legend need | Risk |
+| --- | --- | --- | --- | --- | --- |
+| [title] | [section] | [claim] | [source/data] | [categories/symbols/source note] | [permission/evidence/overclaim] |
+
+Caption and legend checks:
+
+- Every table or figure must be mentioned in the prose before or immediately after it appears.
+- Captions should name the source basis, not only say "author self-made."
+- Legends must explain colors, symbols, category names, abbreviations, and coding marks.
+- Tables based on OCR, excerpts, field notes, or incomplete catalog data must mark the limitation.
+- Figures using images, maps, scores, archives, or museum materials need permission and reproduction checks.
+
+For detailed visual design patterns, read `figures-tables.md`.
+
+## Gate 7: Draft Or Revise
 
 For drafting:
 
@@ -135,7 +165,7 @@ For revising:
 3. Preserve the user's strongest concepts and disciplinary voice.
 4. Do not erase useful historical, material, or interpretive nuance for generic smoothness.
 
-## Gate 7: Review Gate
+## Gate 8: Review Gate
 
 Before the integrity audit, use layered review when the user asks for critique, defense preparation, external-review response, or submission readiness.
 
@@ -156,7 +186,7 @@ Reviewer simulation:
 
 For review outputs, lead with the highest-risk issues, then provide revision moves. Do not start with copyediting.
 
-## Gate 8: Integrity Audit
+## Gate 9: Integrity Audit
 
 Before final delivery, check:
 
@@ -171,7 +201,7 @@ Before final delivery, check:
 
 Mark unresolved issues clearly.
 
-## Gate 9: Delivery Status
+## Gate 10: Delivery Status
 
 End substantial outputs with one of:
 

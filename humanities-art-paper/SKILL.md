@@ -26,7 +26,8 @@ Use this skill to turn humanities, social-science, and arts research material in
 3. Identify the field and materials: musicology, art theory, art education, folklore, ICH, cultural studies, theatre/opera, dance, visual art, media, museum studies, or another stated field.
 4. Diagnose the research spine: research object, core question, key concepts, material basis, method, argument, contribution, and limits.
 5. Check section hierarchy before drafting: introduction, materials/method, analysis sections, discussion, and conclusion must not be flattened into one undifferentiated list.
-6. Produce the requested output with explicit assumptions and evidence gaps.
+6. Decide whether tables, figures, captions, or legends are needed to make the material basis and argument visible.
+7. Produce the requested output with explicit assumptions and evidence gaps.
 
 If the user provides only a broad topic, first return a compact diagnosis with 2-4 possible research questions and the evidence each would require. If the user provides draft text, revise or critique the text directly before proposing a new structure.
 
@@ -39,10 +40,11 @@ Use a gated workflow for substantial paper tasks. Do not draft past a failed gat
 3. Terms gate: create a short terminology ledger for recurring concepts, place names, repertoire names, institutions, translations, and abbreviations.
 4. Evidence gate: map each major claim to available or missing evidence.
 5. Structure gate: create section blueprints and verify that same-level sections are truly parallel before writing full prose.
-6. Draft gate: draft or revise one section at a time, keeping each paragraph to one job.
-7. Review gate: run layered critique or reviewer-style adversarial checks when the user asks for review, defense preparation, or submission readiness.
-8. Integrity gate: check for fabricated sources, unsupported claims, concept drift, overbroad contribution, and mismatch between evidence and claim.
-9. Delivery gate: return the requested artifact plus a short "ready / needs author check / blocked" status.
+6. Visual evidence gate: decide which claims need tables, figures, captions, or legends; skip visuals that only decorate or repeat prose.
+7. Draft gate: draft or revise one section at a time, keeping each paragraph to one job.
+8. Review gate: run layered critique or reviewer-style adversarial checks when the user asks for review, defense preparation, or submission readiness.
+9. Integrity gate: check for fabricated sources, unsupported claims, concept drift, overbroad contribution, and mismatch between evidence and claim.
+10. Delivery gate: return the requested artifact plus a short "ready / needs author check / blocked" status.
 
 For the detailed humanistic version of these gates, read `references/workflow-gates.md`.
 
@@ -63,6 +65,8 @@ When generating or revising paper content:
 - Connect every major claim to a material type or scholarly debate.
 - Prefer concrete chapter titles over decorative or slogan-like titles.
 - Keep first-level headings at consistent argumentative rank: do not place a materials/method section, three analytical dimensions, a scope discussion, and the conclusion as if all were equivalent analytical sections.
+- Use tables and figures to expose source scope, coding logic, comparison, chronology, spatial relations, or analytical mechanisms; do not add them as decorative academic furniture.
+- Every proposed table or figure must have an in-text function, a source note, and a caption or legend that explains categories, symbols, abbreviations, and evidence limits.
 - Keep theory as an analytical tool, not a name-dropping layer.
 - Assign each paragraph one primary job: context, problem, literature position, method/material, analysis, comparison, implication, or limitation.
 - For Chinese outputs, use clear academic Chinese with controlled abstraction.
@@ -77,7 +81,7 @@ When generating or revising paper content:
 - Four-layer critique: foundation, structure, paragraph function, sentence style.
 - Reviewer simulation: likely reviewer objections, evidence vulnerabilities, concept attacks, and revision priorities.
 - Revision dossier: response-to-reviewer plan, change log, unresolved author checks.
-- Figure/table plan: figure type, required data/materials, caption logic, source notes.
+- Figure/table plan: figure type, required data/materials, table fields, caption/legend logic, in-text placement, source notes, and permission risks.
 - Submission polish: title, abstract, keywords, introduction, conclusion, and response-to-reviewer text.
 
 ## Clarifying Questions
