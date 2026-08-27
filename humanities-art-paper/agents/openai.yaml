@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanities Art Paper"
+  short_description: "人文社科与艺术学论文写作、综述、论证和作图工作流。"
+  default_prompt: "Use $humanities-art-paper to refine an arts or humanities paper topic into a defensible argument and chapter outline."
